@@ -1,0 +1,6 @@
+za\co\bmw\assessment\rest\swagger\SwaggerConfig.class
+za\co\bmw\assessment\model\BmwCars.class
+za\co\bmw\assessment\BmwSpringApp.class
+za\co\bmw\assessment\repository\CarsRepository.class
+za\co\bmw\assessment\rest\BmwCarsController.class
+za\co\bmw\assessment\rest\CarRestURIConstants.class
